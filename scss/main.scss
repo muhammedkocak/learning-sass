@@ -1,0 +1,41 @@
+$ddr: #292929;
+$musterd: #ffca00;
+
+$font: Arial,Helvetica,sans-serif;
+
+
+
+
+
+
+
+
+
+
+/*------------css-------------*/
+
+body {
+    background-color: $musterd;
+}
+
+.cuba  {
+    align-content: center;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.nav-link {
+    border-right: 1px solid orange;
+}
+
+.gridcontainer {
+    margin: 0 100px 0 100px;
+    background-image: url("../Image/cuba.jpg");
+    height: 1500px;
+    width: auto;
+    background-size: cover;
+    
+    
+}
